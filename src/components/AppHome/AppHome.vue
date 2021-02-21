@@ -56,27 +56,27 @@ export default {
     return {
       users: [
         {
-          name: "user1",
+          name: "superhero1",
           image:
             "https://data-us.cometchat.io/assets/images/avatars/ironman.png",
         },
         {
-          name: "user2",
+          name: "superhero2",
           image:
             "https://data-us.cometchat.io/assets/images/avatars/captainamerica.png",
         },
         {
-          name: "user3",
+          name: "superhero3",
           image:
             "https://data-us.cometchat.io/assets/images/avatars/spiderman.png",
         },
         {
-          name: "user4",
+          name: "superhero4",
           image:
             "https://data-us.cometchat.io/assets/images/avatars/wolverine.png",
         },
         {
-          name: "user5",
+          name: "superhero5",
           image:
             "https://data-us.cometchat.io/assets/images/avatars/cyclops.png",
         },
